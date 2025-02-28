@@ -1,1 +1,1 @@
-Smoky Mountain Workshop on Early Developmental Intelligence and Embodied Intelligence @ EI², 2024.
+The 3rd Workshop on Federated and Privacy-Preserving AI for HPC (FPAI-HPC 2025)
